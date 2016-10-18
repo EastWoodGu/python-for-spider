@@ -1,0 +1,20 @@
+city:南京
+
+date:10-15		day:阴		night: 18°C
+
+date:10-16		day:多云		night:24°C / 17°C
+
+date:10-17		day:阴		night:24°C / 18°C
+
+date:10-18		day:阴		night:23°C / 19°C
+
+date:10-19		day:阵雨		night:24°C / 20°C
+
+date:10-20		day:阴		night:24°C / 20°C
+
+date:10-21		day:阵雨		night:25°C / 21°C
+
+date:10-22		day:雨		night:23°C / 16°C
+
+date:10-23		day:阴天		night:19°C / 14°C
+
